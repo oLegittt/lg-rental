@@ -38,7 +38,7 @@ if args[2] == "driver" or args[2] == "weapon" or args[2] == "pilot" then
 
 
 Rental Papers Item
-["rentalpapers"]				 = {["name"] = "rentalpapers", 					["label"] = "Rental Papers", 			["weight"] = 0, 		["type"] = "item", 		["image"] = "rentalpapers.png", 		["unique"] = true, 		["useable"] = false        ["shouldClose"] = false, 	       ["combinable"] = nil, 	                    ["description"] = "Yea, this is my car i can prove it!"},
+["rentalpapers"]         = {["name"] = "rentalpapers", 	["label"] = "Rental Papers", 	["weight"] = 0,         ["type"] = "item",      ["image"] = "rentalpapers.png", ["unique"] = true, 	    ["useable"] = false         ["shouldClose"] = false,        ["combinable"] = nil, 	["description"] = "Yea, this is my car i can prove it!"},
 
 
 Rental Papers Item Description - qb-inventory/html/js/app.js crtl + f for stickynote
