@@ -29,3 +29,4 @@ Change Logs
 1.0 - Inital release
 
 Credits - oLegit#8297
+          ping#0478 -- Helping with the ped dispearring 
