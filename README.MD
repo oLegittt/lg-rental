@@ -22,7 +22,7 @@ qb-menu
 
 Known Issues 
 
-Ped Not Spawing, Have To Third Eye The Floor
+-- Ped Not Spawing, Have To Third Eye The Floor --
 
 Change Logs
 
