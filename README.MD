@@ -9,11 +9,11 @@ This is a vehicle rental script for Cars WIth the choice to add Aircrafts and Bo
 Features
 
 Fully Configurable
-Checks to see if player has correct amount of amount in their bank
-Checks to see if rental spot it open
-Provides rental papers for the vehicle
-Ability to return all vehicles
-License Checks
+Checks to see if player has correct amount of amount in their bank,
+Checks to see if rental spot it open,
+Provides rental papers for the vehicle,
+Ability to return all vehicles,
+License Checks,
 
 Dependencies
 
