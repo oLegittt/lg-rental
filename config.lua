@@ -4,7 +4,7 @@ Config.FuelExport = 'ps-fuel' -- Change This To The Name Of Your Fuel Script
 
 Config.Locations = {
     vehicle = {
-        coords = vector4(113.64, -1088.02, 29.19, 348.68),
+        coords = vector4(113.64, -1088.02, 28.2, 348.68),
         pedhash = `a_m_y_business_03`,
         spawnpoint = vector4(117.48, -1081.39, 29.22, 2.4),
     },

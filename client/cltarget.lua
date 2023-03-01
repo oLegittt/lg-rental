@@ -1,7 +1,7 @@
 CreateThread(function(data)
     exports['qb-target']:AddCircleZone("VehiclePed", vector3(113.64, -1088.02, 29.19), 0.4, { 
         name = "vehicleped", 
-        debugPoly = true,
+        debugPoly = false,
       }, {
         options = {
             {

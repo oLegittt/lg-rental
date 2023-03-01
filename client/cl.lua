@@ -114,7 +114,7 @@ local CreateNPC = function()
     SetBlockingOfNonTemporaryEvents(created_ped, true)
     TaskStartScenarioInPlace(created_ped, 'WORLD_HUMAN_CLIPBOARD', 0, true)
 
-    -- Aircraft Rentals
+--[[     -- Aircraft Rentals
     created_ped = CreatePed(5, Config.Locations.aircraft.pedhash, Config.Locations.aircraft.coords.x, Config.Locations.aircraft.coords.y, Config.Locations.aircraft.coords.z, Config.Locations.aircraft.coords.w, false, true)
     FreezeEntityPosition(created_ped, true)
     SetEntityInvincible(created_ped, true)
@@ -126,7 +126,7 @@ local CreateNPC = function()
     FreezeEntityPosition(created_ped, true)
     SetEntityInvincible(created_ped, true)
     SetBlockingOfNonTemporaryEvents(created_ped, true)
-    TaskStartScenarioInPlace(created_ped, 'WORLD_HUMAN_CLIPBOARD', 0, true)
+    TaskStartScenarioInPlace(created_ped, 'WORLD_HUMAN_CLIPBOARD', 0, true) ]]
 end
 
 local SpawnNPC = function()
@@ -146,7 +146,7 @@ local SpawnNPC = function()
         -- while not HasModelLoaded(Config.Locations.boat.pedhash) do
         --     Wait(1)
         -- end
-        -- CreateNPC() 
+         CreateNPC() 
     end)
 end
 
