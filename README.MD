@@ -1,4 +1,4 @@
-qb-rentals
+lg-rentals
 
 First script any issues post it on the github
 
@@ -22,7 +22,7 @@ qb-menu
 
 Known Issues 
 
--- Ped Not Spawing, Have To Third Eye The Floor --
+None atm.
 
 Change Logs
 
