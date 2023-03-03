@@ -176,7 +176,7 @@ RegisterNetEvent('lg-rental:client:spawncar', function(data)
         end  
     end
 
-    QBCore.Functions.TriggerCallback("lg-rental:server:CashCheck",function(money)
+    QBCore.Functions.TriggerCallback("lg-rental:server:BankCheck",function(money)
         if money then
             if menu == "vehicle" then
                 QBCore.Functions.SpawnVehicle(model, function(vehicle)
