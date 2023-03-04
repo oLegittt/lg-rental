@@ -1,5 +1,7 @@
 lg-rentals
 
+QB-Core Rental Script
+
 First script any issues post it on the github
 
 This is a vehicle rental script for Cars WIth the choice to add Aircrafts and Boats by uncommenting a few lines. This script is made for the qbcore framework and utilizes qb-target and qb-menu.
